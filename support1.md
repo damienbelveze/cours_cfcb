@@ -6,8 +6,8 @@ toc: true
 toc-title: plan
 theme: Goettingen
 link-citation: true
-biblio: CFCB.bib
-csl: ieee.csl
+bibliography: CFCB.bib
+biblio-style: ieee.csl
 ---
 # 1. Comment les *fake news* sont devenues le thème à la mode
 
@@ -90,7 +90,7 @@ De même, il y a plusieurs nuances de scientificité
 
 - recherche de travail de vérification (fact-checking)
 - application de méthodes propres à la vérification de l'information :
-    lecture latérale ([lateral reading](ttps://mediaserver.univ-rennes1.fr/videos/?video=MEDIA200831110405448)
+    lecture latérale ([lateral reading](https://mediaserver.univ-rennes1.fr/videos/?video=MEDIA200831110405448)
 - traçage de l'info au moyen de moteurs de recherche inverse d'images
 - recherche en open source (méthode OSINT pour évaluer une source ou vérifier le contexte original d'une image)
 
@@ -110,7 +110,7 @@ balle de tennis ?
 
 ## Biais de confirmation
 
-Expérience de Wason @Wasonfailureeliminatehypotheses1960a
+Expérience de @Wasonfailureeliminatehypotheses1960a
 
 > Voici une suite de nombres : 2, 4, 6. Cette suite obéit à une
 règle que j'ai fixée au préalable. Proposez à votre tour une suite de
@@ -133,3 +133,7 @@ Dissonance cognitive
 ![C'est en forgeant...](forgeron.jpg)
 
 ### https://focus.univ-rennes1.fr/cfcb_fakenews
+
+# Bibliographie
+
+<div id="refs"></div>

@@ -4,6 +4,10 @@ convertir le document markdown directement en PDF avec Pandoc et Latex :
 
 pandoc support1.md --slide-level 2 -t beamer -V theme:goettingen -o support1.pdf
 
+Ajouter les références : 
+
+pandoc support1.md --slide-level 2 -t beamer -V theme:goettingen --pdf-engine=xelatex --filter pandoc-citeproc -f markdown+smart -o support1.pdf
+
 --slide-level 2
 
 # partie : changement de partie (\section{})
