@@ -5,10 +5,13 @@ author: Damien Belvèze
 toc: true
 toc-title: plan
 theme: Goettingen
+link-citation: true
+biblio: CFCB.bib
+csl: ieee.csl
 ---
-# Comment les *fake news* sont devenues le thème à la mode
+# 1. Comment les *fake news* sont devenues le thème à la mode
 
-![L'Université comme rempart aux fake news](cpu.png){ width="70%" }
+![L'Université comme rempart aux fake news](cpu.png){ width="60%" }
 
 ## Brexit et élection de Donald trump
 
@@ -48,7 +51,7 @@ Cory Doctorow, [kinds of propaganda, and what to do about them](https://boingboi
 
 On arrive très vite à l'étude qui prouve ce que l'on croit
 
-# Comment les bibliothèques universitaires en ont profité pour renouveler leur approche
+# 2. Comment les bibliothèques universitaires en ont profité pour renouveler leur approche
 
 ## De l'évaluation de l'information à la "lutte contre les fake news"
 
@@ -125,7 +128,7 @@ Dissonance cognitive
 - donner le goût de la vérification
 - travailler sur les biais cognitifs
 
-# Place à la pratique
+# 3. Place à la pratique
 
 ![C'est en forgeant...](forgeron.jpg)
 
