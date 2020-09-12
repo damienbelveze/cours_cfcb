@@ -11,11 +11,11 @@ biblio-style: ieee.csl
 ---
 # 1. Comment les *fake news* sont devenues le thème à la mode
 
-![L'Université comme rempart aux fake news](cpu.png){ width="60%" }
+![L'Université comme rempart aux fake news](images/cpu.png){ width="60%" }
 
 ## Brexit et élection de Donald trump
 
-![trump vs science](trump_science.jpg){ width="50%" }
+![trump vs science](images/trump_science.jpg){ width="50%" }
 
 Une conséquence de différentes grandes tendances :
 
@@ -103,7 +103,7 @@ CRT (Cognitive Reflection Test [@FrederickCognitiveReflectionDecision2005]
 
 ## Test CRT
 
-![book](tennis.jpg){ width=50% }
+![test CRT](images/tennis.jpg){ width=50% }
 
 > une raquette et une balle de tennis coûtent ensemble 1,10 euro. La
 raquette coûte 1 euro de plus que la balle de tennis. Combien coûte la
@@ -122,7 +122,7 @@ proposition de règle, et je vous dirai si c'est celle-ci qui a été fixée
 
 Dissonance cognitive
 
-![niveau du déni du dérègement climatique rapporté à la culture scientifique @KahanClimateScienceCommunicationMeasurement2015a](climate_change.jpg)
+![niveau du déni du dérègement climatique rapporté à la culture scientifique @KahanClimateScienceCommunicationMeasurement2015a](images/climate_change.jpg)
 
 ## Pistes de travail avec les étudiants
 
@@ -131,7 +131,7 @@ Dissonance cognitive
 
 # 3. Place à la pratique
 
-![C'est en forgeant...](forgeron.jpg){ width="80%" }
+![C'est en forgeant...](images/forgeron.jpg){ width="80%" }
 
 <p style="font-size:20px;">
 https://focus.univ-rennes1.fr/cfcb_fakenews
@@ -139,6 +139,4 @@ https://focus.univ-rennes1.fr/cfcb_fakenews
 
 # Bibliographie
 
-<p style="font-size:10px;">
 <div id="refs"></div>
-</p>
