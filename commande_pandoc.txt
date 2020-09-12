@@ -1,0 +1,10 @@
+se placer dans le bon répertoire
+
+convertir le document markdown directement en PDF avec Pandoc et Latex :
+
+pandoc support1.md --slide-level 2 -t beamer -V theme:goettingen -o support1.pdf
+
+--slide-level 2
+
+# partie : changement de partie (\section{})
+## diapo : changement de diapo (\begin{frame} \end{frame})
