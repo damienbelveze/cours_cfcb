@@ -8,13 +8,16 @@ theme: Goettingen
 ---
 # Comment les *fake news* sont devenues le thème à la mode
 
-yuyuiyiu
+![L'Université comme rempart aux fake news](cpu.png){ width="70%" }
 
 ## Brexit et élection de Donald trump
 
+![trump vs science](trump_science.jpg){ width="50%" }
+
 Une conséquence de différentes grandes tendances :
+
 - discrédit de la presse *mainstream* et de l'expertise (notamment dans le domaine médical)
-- polarisation de la société accentuée par les bulles de filtrage
+- polarisation de la société accentuée par les bulles de filtrage (Pariser, 2014)
 - prolifération des fausses informations sur les réseaux sociaux accentué par la marchandisation des données personnelles (Cambridge Analytica)
 
 ## Une menace pour la Science
@@ -26,6 +29,7 @@ Une conséquence de différentes grandes tendances :
 ## Populisme scientifique 1
 
 Exploitation de l'*impuissance épistémique apprise* (Epistemic Learned Helplessness)
+
 
 > Nous ne vivons pas une crise sur ce qui est vrai, nous vivons une crise sur la façon dont nous savons si quelque chose est vrai. Nous ne sommes pas en désaccord sur les faits, nous sommes en désaccord sur l'épistémologie. La version "établie" de l'épistémologie est la suivante : "Nous utilisons des preuves pour arriver à la vérité, ces preuves sont examinées par une autorité indépendante (mais faites-nous confiance quand nous vous disons que tout a été vérifié de manière indépendante par des personnes qui étaient suffisamment sceptiques et non par les copains des personnes qui leur ont soumis ces faits et ces preuves)".
 
@@ -64,8 +68,9 @@ La question principale était : scientifique ou pas ?
 - Prise de conscience du rôle du bibliothécaire dans la formation du
   citoyen
 
-Le questionnement englobe la presse généraliste et est devenue : -
-fiable ou pas ?
+Le questionnement englobe la presse généraliste et est devenue :
+
+- fiable ou pas ?
 - authentique ou pas ?
 - *fake news or real* (Guardian)
 
@@ -86,13 +91,15 @@ De même, il y a plusieurs nuances de scientificité
 - traçage de l'info au moyen de moteurs de recherche inverse d'images
 - recherche en open source (méthode OSINT pour évaluer une source ou vérifier le contexte original d'une image)
 
-## Apport de nouvelles connaissances
+## Apport de nouvelles connaissances
 
 Faire comprendre aux étudiants le rôle des biais cognitifs ou heuristiques
 biais cognitif : une aide au quotidien sur les questions simples mais un obstacle pour la résolution des questions complexes.
 CRT (Cognitive Reflection Test)
 
 ## Test CRT
+
+![book](tennis.jpg){ width=50% }
 
 > une raquette et une balle de tennis coûtent ensemble 1,10 euro. La
 raquette coûte 1 euro de plus que la balle de tennis. Combien coûte la
@@ -112,3 +119,14 @@ proposition de règle, et je vous dirai si c'est celle-ci qui a été fixée
 Dissonance cognitive
 
 ![image](climate_change.jpg)
+
+## Pistes de travail avec les étudiants
+
+- donner le goût de la vérification
+- travailler sur les biais cognitifs
+
+# Place à la pratique
+
+![C'est en forgeant...](forgeron.jpg)
+
+### https://focus.univ-rennes1.fr/cfcb_fakenews
