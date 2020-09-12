@@ -20,7 +20,7 @@ csl: ieee.csl
 Une conséquence de différentes grandes tendances :
 
 - discrédit de la presse *mainstream* et de l'expertise (notamment dans le domaine médical)
-- polarisation de la société accentuée par les bulles de filtrage (Pariser, 2014)
+- polarisation de la société accentuée par les bulles de filtrage  (Pariser, 2014)
 - prolifération des fausses informations sur les réseaux sociaux accentué par la marchandisation des données personnelles (Cambridge Analytica)
 
 ## Une menace pour la Science
@@ -40,7 +40,7 @@ Exploitation de l'*impuissance épistémique apprise* (Epistemic Learned Helples
 
 > La méthode épistémologique des "faits alternatifs" va au contraire avancer : Les experts "indépendants" qui étaient censés vérifier la vérité "fondée sur des preuves" étaient en fait au coude à coude avec les personnes dont ils étaient censés vérifier les faits. En fin de compte, c'est une question de foi : soit vous croyez que "leurs" experts sont sincères, soit vous croyez que nous le sommes. Demandez à votre instinct (ask your gut), quelle version vous semble la plus véridique ?
 
-Cory Doctorow, [kinds of propaganda, and what to do about them](https://boingboing.net/2017/02/25/counternarratives-not-fact-che.html)
+Cory Doctorow @Threekindspropaganda2017
 
 ## Populisme scientifique 3
 
@@ -82,7 +82,7 @@ Le questionnement englobe la presse généraliste et est devenue :
 On designe des sources saines (New York Times, CNN, Guardian) et des
 sources douteuses (Breitbart News, RT, Sun, Fox News)
 Mais CNN et Le Monde modifient également notre perception du monde : *liberal* au sens
-US mais aussi *neoliberal* au sens de Walter Lippman
+US mais aussi *neoliberal* (au sens de Walter Lippman)
 
 De même, il y a plusieurs nuances de scientificité
 
@@ -110,7 +110,7 @@ balle de tennis ?
 
 ## Biais de confirmation
 
-Expérience de Wason (1960)
+Expérience de Wason @Wasonfailureeliminatehypotheses1960a
 
 > Voici une suite de nombres : 2, 4, 6. Cette suite obéit à une
 règle que j'ai fixée au préalable. Proposez à votre tour une suite de
