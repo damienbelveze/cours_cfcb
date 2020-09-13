@@ -8,6 +8,11 @@ theme: Goettingen
 link-citation: true
 bibliography: CFCB.bib
 biblio-style: ieee.csl
+pandoc-latex-fontsize:
+  - classes: [smallcontent]
+    size: tiny
+  - classes: [largecontent, important]
+    size: huge
 ---
 # 1. Comment les *fake news* sont devenues le thème à la mode
 
@@ -133,10 +138,10 @@ Dissonance cognitive
 
 ![C'est en forgeant...](images/forgeron.jpg){ width="80%" }
 
-<p style="font-size:20px;">
-https://focus.univ-rennes1.fr/cfcb_fakenews
-</p>
+[https://focus.univ-rennes1.fr/cfcb_fakenews]{latex-fontsize=huge}
+
 
 # Bibliographie
 
+\tiny
 <div id="refs"></div>

@@ -8,6 +8,10 @@ Ajouter les références :
 
 pandoc support1.md --slide-level 2 -t beamer -V theme:goettingen --pdf-engine=xelatex --filter pandoc-citeproc -f markdown+smart -o support1.pdf
 
+gérer les tailles de police (fait appel au plugin pandoc-latex-fontsize)
+
+pandoc support1.md --slide-level 2 -t beamer -V theme:goettingen --pdf-engine=xelatex --filter pandoc-citeproc --filter pandoc-latex-fontsize -f markdown+smart -o support1.pdf
+
 --slide-level 2
 
 # partie : changement de partie (\section{})
