@@ -14,9 +14,9 @@ pandoc-latex-fontsize:
   - classes: [largecontent, important]
     size: huge
 ---
-# 1. Quand le public apprend que la science est un champ de bataille 
+# 1. Quand le public apprend que la science est un champ de bataille
 
-![L'Université comme rempart aux fake news](images/cpu.png){ width="60%" }
+![cas1](images/delfraissy.png){ width="60%" }
 
 ## Brexit et élection de Donald trump
 
