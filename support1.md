@@ -16,11 +16,17 @@ pandoc-latex-fontsize:
 ---
 # 1. Quand le public apprend que la science est un champ de bataille
 
-![cas1](images/delfraissy.png)
+## la problématique 1
 
-![cas1](images/vidal.png)
+![Delfraissy](images/delfraissy.png)
 
-![cas1](images/macron.png)
+## la problématique 2
+
+![Vidal](images/vidal.png)
+
+## la problématique 3
+
+![Macron](images/macron.png)
 
 ## Brexit et élection de Donald trump
 
