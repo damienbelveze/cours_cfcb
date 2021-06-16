@@ -1,12 +1,12 @@
 ---
 title: Evaluer l'information en bibliothèque universitaire à l'ère des Fake news
-date: 17 septembre 2020
+date: 17 juin 2021
 author: Damien Belvèze
 toc: true
 toc-title: plan
 theme: Goettingen
 link-citation: true
-bibliography: CFCB.bib
+bibliography: mylibrary.bib
 biblio-style: ieee.csl
 pandoc-latex-fontsize:
   - classes: [smallcontent]
@@ -16,58 +16,80 @@ pandoc-latex-fontsize:
 ---
 # 1. Quand le public apprend que la science est un champ de bataille
 
-## la problématique 1
+## cas 1
 
 ![Delfraissy](images/delfraissy.png)
 
-## la problématique 2
-
-![Vidal](images/vidal.png)
-
-## la problématique 3
+## cas 2
 
 ![Macron](images/macron.png)
 
-## Brexit et élection de Donald trump
+## cas 3
 
-![trump vs science](images/trump_science.jpg){ width="50%" }
+![Vidal](images/vidal.png)
 
-Une conséquence de différentes grandes tendances :
+## cas 4
 
-- discrédit de la presse *mainstream* et de l'expertise (notamment dans le domaine médical)
-- polarisation de la société accentuée par les bulles de filtrage [@PariserBewareonlinefilter2013]
-- prolifération des fausses informations sur les réseaux sociaux accentué par la marchandisation des données personnelles (Cambridge Analytica)
+![Vidal](images/heinich.png)
 
-## Une menace pour la Science
+## Tensions entre Science et Politique
 
-- Fin des financements accordés à certains types de recherche (environnement)
-- Diffusion de fausses informations scientifiques par le gouvernement
-- le populisme scientifique au pouvoir
+- Le politique a ménagé un espace de liberté pour la science. Cet espace évolue au gré des circonstances
 
-## Populisme scientifique 1
+- Les chercheurs ont des biais politiques, certains considèrent que la science ne doit pas contribuer à décrire le monde mais aussi à le changer
 
-Exploitation de l'*impuissance épistémique apprise* [@AlexEpistemicLearnedHelplessness2019]
+- Les "vérités scientifiques" ne doivent pas seulement s'imposer au politique et réciproquement.
 
+- les scientifiques ne sont pas d'accord entre eux, la controverse est une modalité habituelle de la science.
+  Mais cette controverse est censée améliorer le niveau des arguments
 
-> Nous ne vivons pas une crise sur ce qui est vrai, nous vivons une crise sur la façon dont nous savons si quelque chose est vrai. Nous ne sommes pas en désaccord sur les faits, nous sommes en désaccord sur l'épistémologie. La version "établie" de l'épistémologie est la suivante : "Nous utilisons des preuves pour arriver à la vérité, ces preuves sont examinées par une autorité indépendante (mais faites-nous confiance quand nous vous disons que tout a été vérifié de manière indépendante par des personnes qui étaient suffisamment sceptiques et non par les copains des personnes qui leur ont soumis ces faits et ces preuves)".
+## écart avec la culture dominante de la science
 
-## Populisme scientifique 2
+La Science et la politique s'opposent fortement
 
-> La méthode épistémologique des "faits alternatifs" va au contraire avancer : Les experts "indépendants" qui étaient censés vérifier la vérité "fondée sur des preuves" étaient en fait au coude à coude avec les personnes dont ils étaient censés vérifier les faits. En fin de compte, c'est une question de foi : soit vous croyez que "leurs" experts sont sincères, soit vous croyez que nous le sommes. Demandez à votre instinct (ask your gut), quelle version vous semble la plus véridique ?
+![Lyssenkisme](images/lyssenko.jpg)
 
-[@DoctorowThreekindspropaganda2017]
+## écart avec la culture dominante de la Science
 
-## Populisme scientifique 3
+La Science et la croyance s'opposent fortement
 
-- désintermédiation de la recherche sur le Web
-- bulle de filtrage et biais de confirmation
-- détournement par la droite conservatrice de la théorie de la déconstruction
-- prestige de la science mais incompréhension de la manière dont la science progresse (par consensus)
-- prolifération de revues douteuses et crise de la reproductibilité
+![Galilée](images/galileo.jpg)
 
-On arrive très vite à l'étude qui prouve ce que l'on croit
+## écart avec la culture dominante de la science
 
-# 2. Comment les bibliothèques universitaires en ont profité pour renouveler leur approche
+- La Science est vue comme un acquis, moins comme un processus
+
+- Le mot théorie n'a pas le même sens que dans la vie courante
+
+- La conflictualité inhérente à la science est sous-estimée @ManiglierToutceque2021
+
+## Une découverte de la nature de la science qui peut engendrer du scepticisme
+
+- La Science risque de ne plus servir que de caution à un discours idéologique : "tu as tes experts, moi j'ai les miens".
+
+- Une insistance sur le caractère soi-disant irréductible du dissensus scientifique pour faire visibiliser des points de vue très minoritaires
+
+- La fabrique de dissensus artificiels (agnotologie) @OreskesMerchantsDoubt2011
+
+- un discours critique de la Science (Latour) récupéré par les conservateurs @LatourWhyHasCritique.
+
+## L'esprit critique utilisé contre la démarche scientifique
+
+Une disposition qui touche les personnes les plus diplômées @KahanScienceCuriosityPolitical2017
+
+![niveau du déni du dérègement climatique rapporté à la culture scientifique ](images/climate_change.jpg)
+
+## La question de la désintermédiation
+
+vision néo-libérale (et protestante) de l'individu qui cherche par lui-même
+
+![Injonction à questionner davantage](images/RT.jpg)
+
+# 2. Situer le problème des Fake News et les solutions proposées dans ce débat entre Science et politique
+
+[Lien vers le Klaxoon](https://app.klaxoon.com/join/AXNNPWW)
+
+# 3. Comment les bibliothèques universitaires en ont profité pour renouveler leur approche
 
 ## De l'évaluation de l'information à la "lutte contre les fake news"
 
@@ -97,16 +119,17 @@ Le questionnement englobe la presse généraliste et est devenue :
 
 On designe des sources saines (New York Times, CNN, Guardian) et des
 sources douteuses (Breitbart News, RT, Sun, Fox News)
-Mais CNN et Le Monde modifient également notre perception du monde : *liberal* au sens
+Mais CNN et Le Monde modifient également notre perception du monde : *liberal* au sens @boydYouThinkYou2018
 US mais aussi *neoliberal* (au sens de Walter Lippman)
 
-De même, il y a plusieurs nuances de scientificité
+Insister sur la déontologie journalistique, l'épistémologie
 
 ## Apport de nouvelles pratiques
 
 - recherche de travail de vérification (fact-checking)
 - application de méthodes propres à la vérification de l'information :
-    lecture latérale ([lateral reading](https://mediaserver.univ-rennes1.fr/videos/?video=MEDIA200831110405448)
+    lecture latérale @WineburgLateralReadingNature2019
+  ([lateral reading](https://mediaserver.univ-rennes1.fr/videos/?video=MEDIA200831110405448)
 - traçage de l'info au moyen de moteurs de recherche inverse d'images
 - recherche en open source (méthode OSINT pour évaluer une source ou vérifier le contexte original d'une image [@BelvezeGeolocaliserdaterimage2020])
 
@@ -118,26 +141,20 @@ CRT (Cognitive Reflection Test [@FrederickCognitiveReflectionDecision2005]
 
 ## Test CRT
 
-![test CRT](images/tennis.jpg){ width=50% }
+![test CRT](images/nenuphar.jpg){ width=50% }
 
-> une raquette et une balle de tennis coûtent ensemble 1,10 euro. La
-raquette coûte 1 euro de plus que la balle de tennis. Combien coûte la
-balle de tennis ?
+> un nénuphar sur un étang double sa superficie tous les jours.
+  Au bout de 48 jours il a recouvert l'étang.
+  Au bout de combien de jours il en a recouvert la moitié ?
 
 ## Biais de confirmation
 
-Expérience de [@Wasonfailureeliminatehypotheses1960a]
+Expérience de Wason (@Wasonfailureeliminatehypotheses1960)
 
 > Voici une suite de nombres : 2, 4, 6. Cette suite obéit à une
 règle que j'ai fixée au préalable. Proposez à votre tour une suite de
 trois nombres, je vous dirai si elle suit ma règle. Faites ensuite une
 proposition de règle, et je vous dirai si c'est celle-ci qui a été fixée
-
-## La culture scientifique est-elle suffisante ?
-
-Dissonance cognitive
-
-![niveau du déni du dérègement climatique rapporté à la culture scientifique @KahanClimateScienceCommunicationMeasurement2015a](images/climate_change.jpg)
 
 ## Pistes de travail avec les étudiants
 
